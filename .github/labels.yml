@@ -1,35 +1,35 @@
 # Typ-Labels
 - name: bug
+  color: "ff0000"
   description: Fehler im Code
-  color: ff0000
 - name: enhancement
-  description: Neue Features oder Verbesserungen
-  color: 00ff00
+  color: "00ff00"
+  description: Neue Funktionalität/Vorschläge
 - name: documentation
-  description: Änderungen an Dokumentation
-  color: 0000ff
+  color: "0000ff"
+  description: Änderungen an der Dokumentation
 - name: question
+  color: "800080"
   description: Fragen oder Unklarheiten
-  color: 800080
 
 # Status-Labels
 - name: in progress
+  color: "ffff00"
   description: Wird gerade bearbeitet
-  color: ffff00
 - name: review needed
-  description: PR wartet auf Review
-  color: ff8800
+  color: "ff8800"
+  description: Wartet auf Review
 - name: ready to merge
+  color: "88ff88"
   description: PR geprüft, bereit zum Merge
-  color: 88ff88
 - name: wontfix
-  description: Issue wird nicht umgesetzt
-  color: 000000
+  color: "000000"
+  description: Wird nicht umgesetzt
 
-# Optional Priorität
+# Priorität (optional)
 - name: high priority
+  color: "880000"
   description: Muss bald gelöst werden
-  color: 880000
 - name: low priority
+  color: "885500"
   description: Kann warten
-  color: 885500
