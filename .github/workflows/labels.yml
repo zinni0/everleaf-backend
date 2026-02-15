@@ -1,0 +1,16 @@
+# .github/workflows/labels.yml
+name: Sync Labels
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync-labels:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ahmadnassri/action-create-labels@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          labels-file: .github/labels.yml
