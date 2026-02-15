@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: andymckay/create-labels@v1
+      - uses: srealmoreno/label-sync-action@v2
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           labels-file: .github/labels.yml
