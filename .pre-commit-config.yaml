@@ -16,6 +16,8 @@ repos:
     hooks:
       - id: pylint
         name: pylint (optional)
-        language_version: python3
-        entry: pylint
-        args: ["**/*.py"]
+        language: system
+        entry: python -m pylint --init-hook "import sys; sys.path.append('.')"
+        args:
+          - app
+        additional_dependencies: []

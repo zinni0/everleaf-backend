@@ -1,69 +1,121 @@
-# Everleaf Branding-Paket
+# Everleaf – Branding für Feldhockey-Trainingsplanung
 
 ## 1. Name & Tagline
-- **Name:** Everleaf
-- **Tagline-Vorschläge:**  
-  1. Grow your tasks, naturally. 🌱  
-  2. Plant today, complete tomorrow. 🌿  
-  3. Stay organized, stay evergreen. 🍃  
-  4. Your tasks, in full bloom. 🌸
+
+**Name:** Everleaf
+*(steht für nachhaltige Entwicklung und kontinuierliches Wachstum deiner Spieler)*
+
+### Tagline-Vorschläge
+
+1. Grow your team. 🌱
+2. Plan smart. Train better. Win together. 🏑
+3. From drill to victory. 🍃
+4. Training that grows champions. 🌿
+5. Develop skills. Build success. 🌱
+
+Optional persönlicher: „Strukturiertes Training. Nachhaltiger Erfolg."
 
 ---
 
-## 2. Farbpalette
+## 2. Markenidee
 
-| Farbe        | Hex     | Bedeutung                          |
-|-------------|---------|-----------------------------------|
-| Forest Green | #228B22 | Wachstum, Produktivität           |
-| Leaf Green   | #7CFC00 | Frische, Motivation               |
-| Sky Blue     | #87CEEB | Ruhe, Fokus                        |
-| Earth Brown  | #8B4513 | Stabilität, Beständigkeit          |
-| White        | #FFFFFF | Klarheit, Übersicht                |
+Everleaf steht für:
 
-**Farben-Kombination:**  
-- Primär: Forest Green  
-- Akzent: Leaf Green  
-- Hintergrund: White / Sky Blue  
+* kontinuierliche Entwicklung von Spielern
+* strukturiertes, durchdachtes Training
+* langfristigen sportlichen Erfolg
+* Wachstum von Technik, Taktik & Teamgeist
 
----
+**Metapher:**
 
-## 3. Icon- / Logo-Ideen
-
-- Blatt / Baum / kleine Pflanze → symbolisiert Aufgaben, die wachsen  
-- Haken oder Pfad in Blattform → Aufgaben abgeschlossen / Fortschritt  
-- Minimalistischer Stil: klare, einfache Linien, App-Icon-tauglich  
-
-**Beispiel-Konzept:**  
-- Ein Blatt mit leicht geschwungenem Haken darin → „Erledigte Aufgaben wachsen“  
-- Farbverlauf: Leaf Green → Forest Green für Tiefe  
+* Impulse setzen (Übungen)
+* Fortschritt pflegen (Feedback)
+* Erfolg ernten (Spieltag)
 
 ---
 
-## 4. Typografie
+## 3. Farbpalette
 
-- **Primärfont (Logo / Überschriften):**  
-  - Sans-Serif, modern, klar → Montserrat oder Poppins  
-- **Sekundärfont (App-Texte, Buttons):**  
-  - Leicht lesbar → Roboto oder Open Sans  
+| Farbe        | Hex     | Bedeutung im Hockey-Kontext          |
+| ------------ | ------- | ------------------------------------ |
+| Forest Green | #228B22 | Entwicklung, Spielfeld, Teamwachstum |
+| Leaf Green   | #7CFC00 | Energie, Dynamik, Motivation         |
+| Sky Blue     | #87CEEB | Klarheit in der Planung              |
+| Earth Brown  | #8B4513 | Stabilität, Grundlagenarbeit         |
+| White        | #FFFFFF | Struktur, Übersichtlichkeit          |
 
----
+**Interpretation:**
 
-## 5. Key Messaging / Tone
-
-- **Ton:** motivierend, beruhigend, unterstützend  
-- **Kernbotschaften:**  
-  - „Kleine Schritte, große Fortschritte“  
-  - „Bleibe organisiert, bleibe im Flow“  
-  - „Aufgaben wie Samen – wachsen lassen, erfolgreich abschließen“  
-
----
-
-## 6. Nutzungshinweise
-
-- Farben, Fonts und Icons konsistent verwenden  
-- Keine bekannten Marken oder geschützten Designs verwenden  
-- Tagline je nach Medium anpassen (kurz für App-Icon, länger für Landingpage)
+* Forest Green = Spielfeld
+* Leaf Green = aktive Bewegung
+* Sky Blue = taktische Klarheit
 
 ---
 
-*Everleaf – Your tasks, in full bloom.* 🌱
+## 4. Logo-Ideen
+
+### Idee 1: Blatt + Hockey-Element
+
+* Blatt mit Mittelrippe wie Hockeyschläger
+* Punkt (Ball) am Blattende
+* Symbolisiert Technik + Wachstum
+
+### Idee 2: Spielfeld-Leaf
+
+* Minimalistisches Blatt
+* Innen angedeutete Spielfeldlinien
+
+### Idee 3: Wachstums-Pfad
+
+* Blattform mit geschwungenem Weg
+* Symbolisiert Trainingsprogression
+
+**Hinweis:** minimalistisch, App-Icon geeignet
+
+---
+
+## 5. Typografie
+
+* Primärfont: Montserrat oder Poppins (modern & klar)
+* Sekundärfont: Roboto oder Open Sans (leicht lesbar)
+* Optional sportlich: bold für Überschriften, viel Weißraum für Struktur
+
+---
+
+## 6. Key Messaging
+
+### Ton:
+
+* strukturiert
+* motivierend
+* professionell
+* entwicklungsorientiert
+
+### Kernbotschaften:
+
+* „Struktur schafft Erfolg."
+* „Trainingsplanung mit System."
+* „Jede Einheit ein Schritt nach vorne."
+* „Vom Grundlagen-Drill zum Spielsystem."
+* „Nachhaltige Entwicklung statt Zufallstraining."
+
+---
+
+## 7. Positionierung
+
+Everleaf ist:
+
+* digitaler Co-Trainer
+* Trainingsarchiv
+* Entwicklungsplaner
+* Struktur-Tool für erfolgreiche Teams
+
+---
+
+## 8. Optional: App-Kategorien (Hockey-Metapher)
+
+* 🌱 Seed → neue Übung
+* 🌿 Grow → in Training getestet
+* 🌳 Strong → bewährte Einheit
+* 🏆 Bloom → erfolgreich im Spiel umgesetzt
+
