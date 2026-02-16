@@ -1,9 +1,12 @@
-from sqlalchemy import create_engine, text
+from fastapi import FastAPI
 
-from app.core.config import settings
+from app.api import users
 
-engine = create_engine(settings.db_url)
+app = FastAPI(title="Everleaf Backend")
 
-with engine.connect() as conn:
-    result = conn.execute(text("SELECT 1"))
-    print(result.scalar())
+app.include_router(users.router)
+
+
+@app.get("/")
+async def root():
+    return {"message": "Everleaf API is running!"}
