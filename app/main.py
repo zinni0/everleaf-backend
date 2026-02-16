@@ -1,7 +1,9 @@
-from fastapi import FastAPI
+from sqlalchemy import create_engine, text
 
-from app.routes import tasks
+from app.core.config import settings
 
-app = FastAPI(title="Everleaf Backend")
+engine = create_engine(settings.db_url)
 
-app.include_router(tasks.router)
+with engine.connect() as conn:
+    result = conn.execute(text("SELECT 1"))
+    print(result.scalar())
