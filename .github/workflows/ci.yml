@@ -22,7 +22,7 @@ jobs:
       - name: Install dev dependencies
         run: pip install -r requirements-dev.txt
       - name: Run Pylint
-        run: pylint app || true
+        run: python -m pylint --init-hook "import sys; sys.path.append('.')" app || true
 
   black:
     runs-on: ubuntu-latest
