@@ -5,3 +5,5 @@ uvicorn
 pydantic
 pydantic-settings
 sqlalchemy
+passlib[argon2]
+python-jose

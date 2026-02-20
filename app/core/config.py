@@ -8,6 +8,9 @@ class Settings(BaseSettings):
     DB_PASSWORD: str
     DB_PORT: str
 
+    PASSWORD_PEPPER: str
+    JWT_SECRET: str
+
     model_config = SettingsConfigDict(env_file=".env")
 
     @property
