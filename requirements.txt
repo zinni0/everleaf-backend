@@ -3,6 +3,7 @@ psycopg2-binary
 fastapi
 uvicorn
 pydantic
+pydantic[email]
 pydantic-settings
 sqlalchemy
 passlib[argon2]

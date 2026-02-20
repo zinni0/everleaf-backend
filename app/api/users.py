@@ -4,7 +4,7 @@ from starlette import status
 
 from app.auth.jwt import create_access_token
 from app.core.database import SESSION_LOCAL
-from app.crud.user import create_user, get_current_user
+from app.crud.user import create_user, get_current_user, oauth2_scheme
 from app.models.user import User
 from app.schemas.user import UserCreate, UserRead
 
@@ -43,6 +43,6 @@ def api_create_user(user: UserCreate, db: Session = Depends(get_db)):
     }
 
 
-@router.get("/me")
-def read_users_me(current_user: User = Depends(get_current_user)):
-    return current_user
+@router.get("/me", response_model=UserRead)
+def read_users_me(db: Session = Depends(get_db), token: str = Depends(oauth2_scheme)):
+    return get_current_user(db, token)
